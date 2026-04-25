@@ -16826,6 +16826,10 @@ html, body {
 	text-align: center;
 }
 
+.footer-column .widget .wp-block-heading {
+	text-align: left;
+}
+
 .wp-block-woocommerce-product-template li {
 	list-style-type: none !important;
 }
